@@ -1,0 +1,42 @@
+B B B X Y X Y X Y B B B -------------- q 1
+B B B X Y X Y X Y B B B -------------- q 2
+B B B X Y X Y X Y B B B -------------- q 3
+B B B X Y X Y X Y B B B -------------- p 4
+B B B X Y X Y X Y B B B -------------- z 5
+B B B X Y X Y X Y B B B -------------- p 6
+B B B X Y X Y X Y B B B -------------- z 7
+B B B X Y X Y X Y B B B -------------- p 8
+B B B X Y X Y X Y B B B -------------- z 9
+B B B X Y X Y X Y B B B -------------- f 10
+B B B X Y X Y X Y B B B -------------- q 1
+B B B X Y X Y X Y B B B -------------- q 3
+B B B X Y X Y X Y B B B -------------- p 4
+B B B X Y X Y X Y B B B -------------- z 5
+B B B X Y X Y X Y B B B -------------- p 6
+B B B X Y X Y X Y B B B -------------- z 7
+B B B X Y X Y X Y B B B -------------- p 8
+B B B X Y X Y X Y B B B -------------- z 9
+B B B X Y X Y X Y B B B -------------- f 10
+B B B X Y X Y X Y B B B -------------- q 1
+B B B X Y X Y X Y B B B -------------- q 2
+B B B X Y X Y X Y B B B -------------- q 3
+B B B X Y X Y X Y B B B -------------- p 4
+B B B X Y X Y X Y B B B -------------- z 5
+B B B X Y X Y X Y B B B -------------- p 6
+B B B X Y X Y X Y B B B -------------- z 7
+B B B X Y X Y X Y B B B -------------- p 8
+B B B X Y X Y X Y B B B -------------- z 9
+B B B X Y X Y X Y B B B -------------- f 10
+add0sip -------------- q 1
+add0sip -------------- q 1
+B 0 0 0 1 0 0 0 0 B -------------- q 1
+B 0 0 0 1 0 0 0 0 B -------------- p 2
+B 0 0 0 1 0 0 0 0 B -------------- p 3
+B 0 0 0 1 0 0 0 0 B -------------- p 4
+B 0 0 0 0 0 0 0 0 B -------------- s 5
+B 0 0 0 0 0 0 0 0 B -------------- s 6
+B 0 0 0 0 0 0 0 0 B -------------- s 7
+B 0 0 0 0 0 0 0 0 B -------------- s 8
+B 0 0 0 0 0 0 0 0 B -------------- s 9
+B 0 0 0 0 0 0 0 0 B -------------- t 8
+B 0 0 0 0 0 0 0 B B -------------- f 9

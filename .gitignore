@@ -1,0 +1,5 @@
+*.pyc
+*.html~
+*.save
+*.py~
+*.DS_Store

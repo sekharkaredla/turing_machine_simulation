@@ -1,0 +1,29 @@
+<html>
+<head>
+<h2> <marquee>SIMULATION PAGE</marquee> </h2>
+</head>
+<body>
+<br><br><br>
+<table width='100%'>
+<tr>
+%for k in iptp:
+<td>{{k}}</td>
+%end
+</tr>
+<tr>
+%for k in range(0,cp):
+<td>&nbsp</td>
+%end
+<td>{{cs}}</td>
+</tr>
+</table>
+<br><br><br><br><br><br><br>
+<center>
+<form method='post' action='/next_step'>
+<input type="submit" value="NEXT STEP">
+</form>
+<form method='post' action='/proceed'>
+<input type="submit" value="PROCEED">
+</form>
+</body>
+</html>
